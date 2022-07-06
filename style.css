@@ -45,6 +45,7 @@ section {
     padding-left: 100px;
 }
 
+
 #H-02 {
     font-size: xx-large;
     font-weight: 1000;
@@ -79,19 +80,63 @@ section {
     font-weight: 700;
 
 }
+#B1-02{
+    border: 2px solid black;
+    background-color: rgba(137, 43, 226, 0.527);
+}
 
 #D-02 {
     text-align: center;
 }
 
 #P-02 {
-    text-decoration: underline;
     color: rgba(141, 141, 141, 0.863);
+    padding-right: 25px;
 }
 
 #link-button-02 {
 
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 /* 3RD PART STARTING FROM HERE  */
+
+
+.H-03{
+    text-align: center;
+}
+
+#H-03{
+    font-size: xx-large;
+    font-weight: 1000;
+    font-family: sans-serif;
+    padding-left: 100px;
+    
+}
+#P-03{
+    color:rgba(0, 0, 0, 0.753) ;
+    padding-left: 100px;
+
+}
+
+#box-02{
+    padding: 10px 0px 0px 160px;
+    width: 900px;
+    height: 350px;
+ 
+}
+
+.box-02{
+    position: relative;
+    font-size:small;
+    width: 250px;
+    height: 250px;
+    background: rgba(192, 192, 192, 0.322);
+    float: left;
+    margin: 15px;
+    box-sizing: border-box;
+   padding-left: 10px;
+    text-align:left;
+    padding-top: 20px;
+    
+}
