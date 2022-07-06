@@ -1,0 +1,95 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0px 100px;
+    padding-right: 100px;
+
+}
+
+
+#D-01 {
+    text-align: center;
+    color: white;
+    background-image: url(img-01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 90%;
+    width: 300px;
+    padding: 10% 40%;
+
+}
+
+#H-01 {
+    font-size: xx-large;
+    font-weight: 1000;
+    font-family: sans-serif;
+
+}
+
+.link-button {
+    background-color: rgba(137, 43, 226, 0.74);
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+
+}
+
+/* 2ND PART STARTING FROM HERE  */
+
+section {
+    margin: 100px;
+    padding-left: 100px;
+}
+
+#H-02 {
+    font-size: xx-large;
+    font-weight: 1000;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.P {
+    text-align: center;
+    color: rgba(0, 0, 0, 0.753);
+    padding-left: 40px;
+
+}
+
+#box-01 {
+    padding: 10px 90px 0px 40px;
+    width: 900px;
+    height: 150px;
+}
+
+.box-01 {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background: rgba(192, 192, 192, 0.322);
+    float: left;
+    margin: 15px;
+    box-sizing: border-box;
+    padding-top: 40px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: 700;
+
+}
+
+#D-02 {
+    text-align: center;
+}
+
+#P-02 {
+    text-decoration: underline;
+    color: rgba(141, 141, 141, 0.863);
+}
+
+#link-button-02 {
+
+    margin-left: 20px;
+}
+
+
+
