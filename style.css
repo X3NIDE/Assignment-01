@@ -174,21 +174,25 @@ section {
 
 }
 
-#I-04 {
-    width: 500px;
-    height: 400px;
-    padding-left: 40px;
-    padding-bottom: 50px;
-    overflow: hidden;
-}
 #H-04{
     font-size: xx-large;
     font-weight: 1000;
     font-family: sans-serif;
 }
+
 #P-04{
 
 }
+
+#I-04 {
+    width: 500px;
+    height: 400px;
+    padding-left: 40px;
+    padding-bottom: 50px;
+  
+  
+}
+
 
 /* 5TH PART STARTS FROM HERE  */
 #S-05{
@@ -201,7 +205,8 @@ section {
     height: 400px;
     padding-right: 60px;
     padding-bottom: 50px;
-    overflow: hidden;
+ 
+  
 }
 
 #D-05{
@@ -213,29 +218,13 @@ section {
     font-family: sans-serif;
 }
 
-#P-05{
 
-}
 
 /* 6TH PART STARTS FROM HERE  */
 
-
-
-
-
-
-
-
-
-
-
-
-
-/* 7TH PART STARTS FROM HERE  */
-
 footer{
     text-align: center;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.911);
     color: white;
     font-family: sans-serif;
     padding-left: 20px;
@@ -244,4 +233,7 @@ footer{
 }
 #H-07{
     color: purple;
+    font-family: sans-serif;
+    text-decoration: underline;
+    font-size: large;
 }
